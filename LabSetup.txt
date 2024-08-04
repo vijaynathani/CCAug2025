@@ -1,0 +1,6 @@
+Training setup.
+- Projector and whiteboard.
+- Visual Studio. A trial version may be used.
+- Visual studio code editor.
+- Participants must be able to download from GitHub.
+- Participants must be able to send/receive emails.

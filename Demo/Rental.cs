@@ -20,4 +20,6 @@ internal class Rental
     {
         get { return _daysRented; }
     }
+    public double GetAmount() => _movie.GetAmount(_daysRented);
+    public int GetFrequentRenterPoints() => _movie.GetFrequentRenterPoitns(_daysRented);
 }
